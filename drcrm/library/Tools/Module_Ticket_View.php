@@ -207,7 +207,7 @@ function  Diar_Print_Sales_Button($row,$MyArr=array()){
     global  $AdminLangFile;
     global  $db;
     global  $USER_PERMATION_Edit ;
-    $Err = "";
+    $Err = [];
     
     $Ticket_ID = $row['id'];
 

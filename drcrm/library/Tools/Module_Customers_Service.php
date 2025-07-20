@@ -107,7 +107,7 @@ function Empl_ListBox_Filter_CustService(){
     if($AdminConfig['subercustserv']=='1'){
         Sales_Group_List_CustService();
     }elseif($AdminConfig['custservleader']=='1'){
-        CustService_Group_List_For_TeamLeader();
+//        CustService_Group_List_For_TeamLeader();
     }else{
         echo '<input type="hidden" name="emp_id" value="'.$RowUsreInfo['user_id'].'" />';
     }
