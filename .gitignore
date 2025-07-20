@@ -1,6 +1,5 @@
 .idea/
 images/
-library/db-config_crm_site.php
 library/db-config_crm.php
 .zip
 .json
