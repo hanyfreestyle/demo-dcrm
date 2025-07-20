@@ -1,0 +1,122 @@
+body, p { direction: rtl; }
+/*
+almarai
+alexandria
+tajawalregular
+*/
+body { font-family: tajawalregular!important;  font-size: 10pt; font-weight:normal!important  }
+
+
+
+.al_r{text-align:right!important;}
+.al_c{text-align:center!important;}
+.al_l{text-align:left!important;}
+.w_5{width:5%!important;}
+.w_10{width:10%!important;}
+.w_15{width:15%!important;}
+.w_20{width:20%!important;}
+.w_25{width:25%!important;}
+.w_30{width:30%!important;}
+.w_35{width:35%!important;}
+.w_40{width:40%!important;}
+.w_45{width:45%!important;}
+.w_50{width:50%!important;}
+.w_55{width:55%!important;}
+.w_60{width:60%!important;}
+.w_65{width:65%!important;}
+.w_70{width:70%!important;}
+.w_75{width:75%!important;}
+.w_80{width:80%!important;}
+.w_85{width:85%!important;}
+.w_90{width:90%!important;}
+.w_95{width:95%!important;}
+.w_100{width:100%!important;}
+
+
+body{padding:0!important}
+.MainTable{float:right!important;border-collapse:collapse;width:100%!important;border:3px solid #000}
+.LogoTable{float:right!important;width:100%!important;border-collapse:collapse;border:0!important}
+.LogoTable td{float:right!important;border-collapse:collapse;border:0 solid #000;padding:10px}
+.CompanyName{display:block!important;text-align:center!important;font-size:16px;line-height:25px;font-weight:600}
+.TLogo{text-align:center}
+.TLogoImg{width:110px!important}
+.MainDivIS{float:right;width:100%;border:2px solid #000;padding:20px}
+.DivCont{float:right;width:100%;background-color:#FFF}
+
+
+
+
+.CompanyNameDiv{float:right;text-align:center!important;width:50%;font-size:16px;line-height:25px;font-weight:700;font-family:almarai!important}
+.LogoDiv{float:left;width:35%;text-align:center}
+.LogoImg{width:100px!important}
+.Divh1{text-align:center;font-size:30px;line-height:25px;font-weight:700;padding-bottom:10px;padding-top:20px}
+.CustName span{font-weight:700}
+.CustName{font-size:18px}
+.PrintInfo{float:left;text-align:left;margin-bottom:0;font-size:12px;direction:ltr}
+.employee{float:right;text-align:center!important;width:50%}
+.employee_h1{font-weight:700;font-size:20px;margin-top:10px}
+.invoceTable{float:right!important;width:100%!important;border:1px solid #000;margin-top:10px;margin-bottom:10px}
+.Heeader{background-color:#000;color:#FFF;text-align:center}
+.Heeader td{background-color:#000;color:#FFF;padding:8px;text-align:center}
+.bodytable td{padding:8px;text-align:center}
+
+
+.pdf_clear{float:right;width:100%;height:1px;clear:both!important}
+.CustInfo{float:right;width:24.9999%!important;margin-bottom:10px}
+.CustPrintName{float:right;width:39.9999%!important;margin-bottom:10px;}
+.CustPrintPhone{float:right;width:19.9999%!important;margin-bottom:10px;}
+.CustInfo_6{float:right;width:50%!important}
+.CustInfo .Name{font-weight:700;padding-bottom:3px;margin-bottom:3px;border-bottom:1px solid #CCC; font-weight:bold!important}
+.ThisNumber{font-size:20px; font-weight:bold;}
+.Header_H1{float:right;width:100%;background-color:#000;color:#FFF;font-weight:700;padding:5px 10px;margin-bottom:8px;margin-top:10px}
+.installments_table{border:1px solid #333!important;border-collapse:collapse!important;float:right;width:100%!important}
+.installments_table td{padding:7px;text-align:center;border:1px solid #333!important}
+.td_name{width:150px}
+.td_pay_type{width:50px}
+.td_pay_date{width:80px}
+.td_pay_notes{width:180px}
+.Emapty td{height:30px}
+.PageFooter{float:left;width:100%;text-align:left;direction:ltr;font-size:14px;font-weight:400;font-family:Arial,Helvetica,sans-serif;color:#000;padding-top:10px}
+.Contract_Num{float:left;width:50%;text-align:center}
+.Print_Contract{float:left;width:50%;text-align:center}
+
+
+.SalesTable{float:right!important;width:100%!important;border:1px solid #000!important;font-size:16px;border-collapse:collapse;text-align:center}
+.SalesTable td{border:1px solid #000;padding:15px 20px}
+.HeaderTd{color:#000}
+.HeaderTd td{color:#000; font-weight:bold}
+.PrintNumber td{font-family:Tahoma!important;font-weight:700}
+.PrintNumber .PrintName{font-family:tajawalregular!important;font-weight:400}
+.PrintFooter{}
+.PrintFooter td{color:#000; font-weight:bold;font-size:20px;}
+.sales_report_title{float:right;width:100%;text-align:center;font-size:30px;margin-bottom:20px}
+
+
+
+
+.Project_Info_Print{float:right!important;width:100%!important;border:1px solid #000!important;font-size:16px;border-collapse:collapse;text-align:center}
+.Project_Info_Print td{border:1px solid #000;padding:10px 10px}
+
+.HeaderTd{color:#FFF}
+.HeaderTd td{color:#000}
+.PrintNumber td{font-family:Tahoma!important;font-weight:700; font-size:18px;}
+.PrintNumber .PrintName{font-family:tajawalregular!important;font-weight:400; font-size:14px;}
+.sales_report_title{float:right;width:100%;text-align:center;font-size:30px;margin-bottom:20px}
+
+
+
+
+.ContractNum{
+text-align:center;
+margin-bottom:20px;
+margin-top:20px;
+font-size:60px;
+}
+
+
+
+.NameTitle{ width:250px;}
+.tableInfo td{
+padding-top:10px;
+padding-bottom:10px;
+}

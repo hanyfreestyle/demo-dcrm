@@ -1,0 +1,273 @@
+@font-face {
+    font-family: 'NefelBotan';
+    src: url('Fonts/NefelBotan/nefel_botan.eot');
+    src: url('Fonts/NefelBotan/nefel_botan.eot') format('embedded-opentype'),
+         url('Fonts/NefelBotan/nefel_botan.woff') format('woff'),
+         url('Fonts/NefelBotan/nefel_botan.ttf') format('truetype'),
+         url('Fonts/NefelBotan/nefel_botan.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Droid';
+    src: url('Fonts/Droid/DroidKufi-Regular.eot');
+    src: url('Fonts/Droid/DroidKufi-Regular.eot') format('embedded-opentype'),
+         url('Fonts/Droid/DroidKufi-Regular.woff') format('woff'),
+         url('Fonts/Droid/DroidKufi-Regular.ttf') format('truetype'),
+          url('Fonts/NefelBotan/nefel_botan.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+body{
+font-family:"Droid", Helvetica, sans-serif;
+
+}
+
+
+.Dashboard p{
+font-size:20px;
+}
+.Dashboard .fa{
+font-size:45px!important;
+color:#FFFFFF!important;
+}
+
+
+
+/*###############################################################################################################
+  Chart
+############################################################################################################### */
+.ChartRight{float:right;}
+.ChartTitle{ text-align:right; direction:rtl ;}
+.report_widget{float:right;}
+/*###############################################################################################################
+   Main Style
+############################################################################################################### */
+.ErrMass_Div_S{direction: rtl; font-size:16px;  text-align: right; font-family:"Droid", Helvetica, sans-serif; }
+.Arr_Mass{direction: rtl; font-size:16px;  text-align: right; font-family:"Droid", Helvetica, sans-serif; }
+.UnitCode{
+font-size:20px;
+direction:ltr;
+text-align:center;
+}
+
+.Row_Top_link .TdBut{
+ 
+}
+.Tfloor_name{
+text-align:center;
+font-size:20px;
+}
+.widget_Units{
+margin:0px;
+padding:0px!important;
+}
+
+.widget_Units .panel-body{
+padding:0px;
+margin:0px;
+}
+
+.widget_Units .text-lg{
+font-size:30px;
+margin-top:10px!important;
+}
+
+.widget_Units .Fa_Style{
+margin-bottom:15px;
+font-size:20px;
+}
+
+.widget_Units p{
+}
+
+.widget_Units .AreaP {
+font-size:16px;
+direction:ltr;
+font-weight:bold;
+}
+
+.widget_Units .pp_list2 {
+padding-top:10px;
+}
+
+
+
+.widget_Units a:link { text-decoration:none ; color:Xcolor }
+.widget_Units a:visited { text-decoration:none ; color:Xcolor }
+.widget_Units a:hover { text-decoration:none ; color:Xcolor }
+.widget_Units a:active { text-decoration:none ; color:Xcolor }
+
+
+
+
+
+/*###############################################################################################################
+   Form Style
+############################################################################################################### */
+.DirRight{float:right;text-align:right;direction:rtl;}
+.En_Lang{direction:ltr!important;text-align:left!important;}
+.ArButForm{font-family:"Droid", Helvetica, sans-serif; float:right; margin-top:20px;}
+.ArButForm_2{font-family:"Droid", Helvetica, sans-serif; float:left; margin-top:20px;}
+.DirRight .TypeText{font-family:"Droid", Helvetica, sans-serif;font-size:15px;height:40px;}
+.DirRight .control-label{font-family:"Droid", Helvetica, sans-serif;font-size:16px;font-weight:normal!important;}
+textarea.form-control{min-height:150px;font-size:16px;font-family:"Droid", Helvetica, sans-serif;}
+
+.select_label{width:100%!important;}
+.chosen-select_2{width:100%!important;font-family:"Droid", Helvetica, sans-serif!important;height:40px;}
+.chosen-select_3{font-family:"Droid", Helvetica, sans-serif!important;height:40px;}
+.chosen-container .chosen-results li{font-family:"Droid", Helvetica, sans-serif!important;}
+.chosen-container-single .chosen-single span{font-family:"Droid", Helvetica, sans-serif!important;}
+
+.radio_new .OneLine{margin-left:10px;margin-right:5px;font-size:14px;}
+.radio_new .radiotype{cursor: pointer;}
+
+
+
+/*###############################################################################################################
+   Sidebar
+############################################################################################################### */
+.item-text_ul{font-family:"Droid", Arial, sans-serif!important;font-size:14px!important;font-weight:normal!important; direction:ltr!important;}
+.item-text_li{font-family:"Droid", Arial, sans-serif!important;font-size:12px!important;font-weight:normal!important; direction:ltr!important;}
+
+
+/*###############################################################################################################
+   Titels
+############################################################################################################### */
+.H3_FontAr{
+font-family:"Droid", Arial, sans-serif!important;
+font-size:18px!important;
+font-weight:normal!important;
+text-align:right;
+direction:rtl;
+ 
+}
+
+
+
+
+/*###############################################################################################################
+   Tabel
+############################################################################################################### */
+.ArTabel{direction:rtl;font-family:"Droid", Helvetica, sans-serif;}
+.TdBut{padding:5px; padding-right:7px; padding-left:7px; font-size:13px;}
+.tooltip { font-size:13px; font-family:tahoma, Arial, sans-serif; padding-bottom:5px!important; line-height:1.5}
+
+
+
+/*###############################################################################################################
+   CustInfo
+############################################################################################################### */
+.CustInfo{margin-bottom:7px;}
+.CustInfo .Name{direction:rtl;font-family:"Droid", Helvetica, sans-serif;color:#FF0000;font-size:16px;border-bottom:1px solid #d1d2d3;
+padding-bottom:5px;margin-bottom:7px;}
+.CustInfo .Info{direction:rtl;font-family:"NefelBotan", Helvetica, sans-serif;font-weight:normal!important;font-size:16px;margin-bottom:10px;}
+
+
+
+
+/*###############################################################################################################
+   Config Page
+############################################################################################################### */
+.H3_Config{
+font-family: "Droid",Arial,sans-serif;
+font-size: 18px;
+font-weight: normal;
+text-align: right;
+border-bottom:1px solid #f1f2f3;
+padding-bottom:12px;
+color:#FF0000;
+margin-bottom:10px;
+margin-top:20px;
+}
+.nav-pills li{
+float:right;
+margin-left:10px;
+font-family:"Droid", Helvetica, sans-serif!important;
+font-size:15px;
+font-weight:normal!important;
+
+}
+
+.ConfigPageTitel{
+text-align:right;
+direction:rtl;
+font-size:16px;
+
+}
+
+
+/*###############################################################################################################
+   btn3d
+############################################################################################################### */
+.ShortMenu{
+margin-bottom:40px!important;
+float:right;
+direction:rtl;
+}
+
+
+.ShortMenu .fa{
+font-size:17px!important;
+margin-left:5px;
+}
+
+
+/*###############################################################################################################
+   Search Form
+############################################################################################################### */
+.SearchDiv{margin-bottom:20px;border:0px solid  #FF0000 ;}
+.H1_Serch{
+color:#FF0000;
+border-bottom:1px solid #f1f2f3 ; 
+font-size:15px ;
+padding-bottom:5px;
+margin-bottom:5px;
+}
+
+.SearchBut{
+float:left;
+}
+
+.rdio_type{
+float:right;
+width:20px;
+margin-left:20px;
+}
+
+.rdio_search{
+float:right;
+margin-left:10px;
+}
+
+
+/*###############################################################################################################
+   Paging
+############################################################################################################### */
+#paging div {display:inline;float: right;width:auto;margin: 3px;text-align: center;}
+.nav_links:link, .nav_links:visited, .nav_links:active {color: #0000ff;font-size: 12px;text-decoration: none;font-family: tahoma;padding-left: 6px;padding-right: 6px;
+padding-top: 4px;padding-bottom: 4px;display: block;background-color:#000;color:#FFF;border: 1px solid #CCC;}
+.pager-current{color: #000;font-size: 12px;text-decoration: none;font-family: tahoma;padding-left: 6px;padding-right: 6px;padding-top: 4px;padding-bottom: 4px;display: block;
+background-color: #ffffff;background-color:#FFF;border: 1px solid #CCC;}
+.nav_links:hover {color:#000;background-color:#FFF;border: 1px solid #CCC;font-size: 12px;text-decoration: none;font-family: tahoma;}
+
+
+.nav-tabs li{
+float:right;
+font-size:15px;
+direction:rtl!important; 
+}
+
+.nav-tabs i{
+direction:rtl!important;
+font-size:18px;
+margin-left:7px;
+ 
+}
+
+
+
+

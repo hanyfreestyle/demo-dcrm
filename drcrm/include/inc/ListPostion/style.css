@@ -1,0 +1,22 @@
+#sortable-row { list-style: none;
+padding:0px!important;
+}
+
+
+
+#sortable-row li {
+width:100%;
+margin-bottom:6px;
+padding:10px; background-color:#BBF4A8;cursor:move;
+text-align:right;
+//font-family:"Droid", Arial, sans-serif!important;
+font-size:16px!important;
+direction:rtl;
+}
+
+#sortable-row li em{
+margin-left:20px;
+}
+
+.btnSave{padding: 10px 20px;background-color: #09F;border: 0;color: #FFF;cursor: pointer; }  
+#sortable-row li.ui-state-highlight { height: 1.0em; background-color:#F0F0F0;border:#ccc 2px dotted;}

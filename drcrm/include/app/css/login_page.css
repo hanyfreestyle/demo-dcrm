@@ -1,0 +1,54 @@
+.ErrMass{
+	font-family: tahoma;
+	color: #F00;
+	font-size: 13;
+	font-weight: bold;
+    text-align: right;
+    direction: rtl;
+}
+.ErrMass2
+{
+	font-family: tahoma;
+	color: #000;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+
+@media only screen and (min-width: 481px) and (max-width: 9900px)  {
+.page-wrapper{
+background-image: url('bg.jpg');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+}
+
+}
+
+@media only screen and (min-width: 300px) and (max-width: 480px)  {
+
+.page-wrapper{
+height:auto!important;
+height:350px!important;
+min-height:750px!important;
+background-image: url('bg_mb.jpg');
+background-repeat: no-repeat;
+background-position: center; 
+background-size: cover;
+
+}
+
+.row-table{
+padding-top:180px;
+}
+
+
+}
+
+.panel-dark > .panel-heading{
+/*background-color:#FFFFFF;*/
+}
+
+.panel-dark > .panel-heading img{
+max-width:100%;
+}

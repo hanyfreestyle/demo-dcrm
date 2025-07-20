@@ -1,0 +1,124 @@
+@font-face {
+	font-family: 'Open Sans';
+	src: url('Fonts/OpenSans/OpenSans-Regular.eot');
+	src: url('Fonts/OpenSans/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+		url('Fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'),
+		url('Fonts/OpenSans/OpenSans-Regular.woff') format('woff'),
+		url('Fonts/OpenSans/OpenSans-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/*###############################################################################################################
+   Chart
+############################################################################################################### */
+.My_Chart_Legend{
+direction:ltr;
+text-align:left;
+}
+ .CloseForm_Ar{ float:right!important; text-align:right }
+ 
+ .Row_Top_link .TdBut{
+ float:left!important; 
+}
+ 
+.legend{
+direction:ltr!important 
+}
+.legend table {
+direction:ltr!important;
+text-align:left;
+font-size:14px!important;
+}
+.adoptionLegendContainer2{
+direction:rtl!important;
+text-align:right;
+ font-size:140px!important;
+}
+
+
+
+/*###############################################################################################################
+   Main Style
+############################################################################################################### */
+.ErrMass_Div_S{direction: ltr; font-size:16px;  text-align: left; font-family:"Open Sans", Helvetica, sans-serif; }
+.CloseForm_Ar{ margin-left:10px ; float:right }
+.ArButForm_Dell{ margin-left:10px ;float:right}
+.ArButForm{float:right!important;}
+
+/*###############################################################################################################
+   Form Style
+############################################################################################################### */
+.control-label{font-size:14px;}
+.ArButForm{margin-top:20px; font-weight:bold}
+.ArButForm_2{font-family:"Open Sans", Helvetica; margin-top:20px; float:right}
+.Ar_Lang{direction:ltr!important;text-align:right!important; font-family:tahoma, Arial, sans-serif!important;}
+.DirRight .TypeText{font-family:"Open Sans", Helvetica, sans-serif;font-size:15px;height:40px;}
+.DirRight .control-label{font-family:"Open Sans", Helvetica, sans-serif;font-size:16px;font-weight:normal!important;}
+textarea.form-control{min-height:150px;font-size:16px;font-family:"Open Sans", Helvetica, sans-serif;}
+
+.select_label{width:100%!important;}
+.chosen-select_2{width:100%!important;font-family:"Open Sans", Helvetica, sans-serif!important;height:40px;}
+.chosen-select_3{font-family:"Open Sans", Helvetica, sans-serif!important;height:40px;}
+.chosen-container .chosen-results li{font-family:"Open Sans", Helvetica, sans-serif!important;}
+.chosen-container-single .chosen-single span{font-family:"Open Sans", Helvetica, sans-serif!important;}
+
+.radio_new .OneLine{margin-left:5px;margin-right:15px;font-size:14px;}
+.radio_new .radiotype{cursor: pointer;}
+
+
+
+/*###############################################################################################################
+   Tabel
+############################################################################################################### */
+.ArTabel{font-family:"Open Sans", Helvetica, sans-serif; font-family:tahoma, Arial, sans-serif!important;}
+.TdBut{padding:5px; padding-right:7px; padding-left:7px; font-size:13px;}
+.tooltip { font-size:13px; font-family:tahoma, Arial, sans-serif; padding-bottom:5px!important; line-height:1.5}
+
+/*###############################################################################################################
+   CustInfo
+############################################################################################################### */
+.CustInfo{margin-bottom:7px;}
+.CustInfo .Name{direction:ltr;font-family:"Open Sans", Helvetica, sans-serif;color:#FF0000;font-size:16px;border-bottom:1px solid #d1d2d3;
+padding-bottom:5px;margin-bottom:7px;}
+.CustInfo .Info{direction:ltr;font-family:"NefelBotan", Helvetica, sans-serif;font-weight:normal!important;font-size:16px;margin-bottom:10px;}
+
+
+/*###############################################################################################################
+   btn3d
+############################################################################################################### */
+.ShortMenu{margin-bottom:40px!important;}
+.ShortMenu .fa{font-size:17px!important;margin-right:5px;}
+
+
+/*###############################################################################################################
+   Search Form
+############################################################################################################### */
+.SearchDiv{margin-bottom:20px;border:0px solid  #FF0000 ;}
+.H1_Serch{
+color:#FF0000;
+border-bottom:1px solid #f1f2f3 ; 
+font-size:15px ;
+padding-bottom:5px;
+margin-bottom:5px;
+}
+
+.SearchBut{
+float:right;
+}
+
+.rdio_type{
+float:left;
+width:20px;
+margin-right:20px;
+}
+
+.rdio_search{
+float:left;
+margin-right:10px;
+}
+
+
+
+
+

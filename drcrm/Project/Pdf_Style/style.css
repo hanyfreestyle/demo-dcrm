@@ -1,0 +1,142 @@
+
+body, p { direction: rtl; }
+
+body { font-family: 'tajawalregular', sans-serif; font-size: 10pt; font-weight:normal!important  }
+
+.al_r{text-align:right!important;}
+.al_c{text-align:center!important;}
+.al_l{text-align:left!important;}
+.w_5{width:5%;}
+.w_10{width:10%;}
+.w_15{width:15%;}
+.w_20{width:20%;}
+.w_25{width:25%;}
+.w_30{width:30%;}
+.w_35{width:35%;}
+.w_40{width:40%;}
+.w_45{width:45%;}
+.w_50{width:50%;}
+.w_55{width:55%;}
+.w_60{width:60%;}
+.w_65{width:65%;}
+.w_70{width:70%;}
+.w_75{width:75%;}
+.w_80{width:80%;}
+.w_85{width:85%;}
+.w_90{width:90%;}
+.w_95{width:95%;}
+.w_100{width:100%;}
+
+.logo_header{
+width:100%;
+height:20mm;
+margin-bottom:10px;
+border:1px solid #000000;
+
+}
+.logo_header img{
+height:20mm;
+}
+.info_t{
+    border-collapse: collapse;
+    width: 100%;
+	 border: 1px solid black;
+
+
+}
+.info_t table, th, td {
+border-collapse: collapse;
+    padding: 3px;
+	 border: 1px solid black;
+	 border-collapse: collapse;
+}
+
+.info_t .info_t_h{
+text-align:center;
+}
+
+.info_t .info_b_d{
+background-color:#3075b6;
+color:#FFFFFF;
+font-size:11pt;
+font-weight:bold;
+}
+
+.info_t .ff_info{
+font-size:10pt;
+}
+
+.info_pricelist{
+    border-collapse: collapse;
+    width: 100%;
+	font-size:10pt;
+}
+
+.info_pricelist th {
+    background-color:#3075b6;
+    color:#FFFFFF;
+	direction:rtl;
+	text-align:right;
+font-size:11pt;
+font-weight:bold;
+}
+
+.info_pricelist .info_t_h{
+text-align:center;
+}
+
+
+.info_pricelist .info_b_d{
+background-color:#9cc2e6;
+border-collapse: collapse;
+color:#000;
+}
+
+.info_pricelist .ff_info{
+font-size:13pt;
+}
+
+
+
+/*
+
+.info_pricelist .oneLine{background-color: #f2f2f2}
+.info_pricelist tr:nth-child(even){background-color: #f2f2f2}
+
+
+.info_pricelist table, th, td {
+    padding: 5px;
+	 border: 0px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+
+
+
+
+
+
+*/

@@ -1,0 +1,28 @@
+{
+    "name": "freestyle4u/thirdParty",
+    "description": "thirdParty",
+    "authors": [
+        {
+            "name": "Hany Darwish",
+            "email": "info@freestyle4u.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "tightenco/collect": "^5.2"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Kunnu\\Dropbox\\": "DropboxFile/Dropbox"
+        },
+        "classmap": [
+            "myClass"
+        ],
+        "files": [
+            "myFiles/Testfile.php"
+        ]
+
+
+    }
+}

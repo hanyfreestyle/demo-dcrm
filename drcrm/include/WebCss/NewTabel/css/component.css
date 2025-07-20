@@ -1,0 +1,153 @@
+/* Component styles */
+
+
+/*
+.component {
+	line-height: 1.5em;
+	margin: 0 auto;
+	padding: 2em 0 3em;
+	width: 90%;
+	max-width: 1000px;
+	overflow: hidden;
+}
+.component .filler {
+	font-family: "Blokk", Arial, sans-serif;
+	color: #d3d3d3;
+}
+*/
+
+
+
+
+.table_sticky01 {
+    border-collapse: collapse;
+    margin-bottom: 3em;
+    width: 100%;
+    background: #fff;
+}
+
+.table_sticky01 th {
+    background-color: #000;
+    font-weight: bold;
+    color: #fff;
+    white-space: nowrap;
+font-family:"Droid", Arial, sans-serif!important;
+font-size:15px!important;
+text-align:center;	
+}
+
+.table_sticky01 td, th {
+    padding: 0.75em 1.5em;
+    text-align: center;
+}
+
+.table_sticky01 tbody th {
+	background-color: #000;
+	text-align:center;
+}
+
+.table_sticky01 tbody tr:nth-child(2n-1) {
+    background-color: #000;
+    transition: all .125s ease-in-out;
+}
+.table_sticky01 tbody tr:hover {
+    background-color: rgba(129,208,177,.3);
+}
+
+.table_sticky01 .sticky-wrap {
+	overflow-x: auto;
+	overflow-y: hidden;
+	position: relative;
+	margin: 3em 0;
+	width: 100%;
+}
+
+.sticky-wrap .sticky-thead,
+.sticky-wrap .sticky-col,
+.sticky-wrap .sticky-intersect {
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	transition: all .125s ease-in-out;
+	z-index: 50;
+	width: auto; 
+}
+
+.sticky-wrap .sticky-thead {
+		box-shadow: 0 0.25em 0.1em -0.1em rgba(0,0,0,.125);
+		z-index: 100;
+		width: 100%; 
+}
+
+.table_sticky01 .sticky-wrap .sticky-intersect {
+		opacity: 1;
+		z-index: 150;
+}
+		.sticky-wrap .sticky-intersect th {
+			background-color: #000;
+			color: #eee;
+		}
+
+
+
+
+
+.sticky-wrap td,
+.sticky-wrap th {
+	box-sizing: border-box;
+}
+
+
+td.user-name {
+	text-transform: capitalize;
+}
+.sticky-wrap.overflow-y {
+	overflow-y: auto;
+	max-height: 50vh;
+}
+
+
+
+.TNewSize{
+padding-top:10px!important;
+padding-bottom:10px!important;
+line-height:20px!important;
+font-size:16px;
+font-family:tahoma, Arial, sans-serif;
+}	
+
+
+.TNewSize .fa{
+font-size:30px!important;
+}
+
+td.err_x {
+		background-color: #e992b9;
+		color: #fff;
+	    text-align: center;
+		line-height: 1;
+}
+
+
+td.Close{
+background:#FFFFFF;
+color:#666666;
+}
+
+td.Open{
+background:#00CC00;
+color:#FFF;
+}
+
+td.Sold{
+background:#3366CC;
+color:#FFF;
+}
+
+td.Reservation{
+background:#FF0000;
+color:#FFF;
+}
+
+
