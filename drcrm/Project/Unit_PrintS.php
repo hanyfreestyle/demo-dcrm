@@ -299,7 +299,7 @@ $PrintFileName = "UnitOffer_".date("M y",time());
     $mpdf->autoLangToFont = true;
     # $mpdf->autoScriptToLang = true;
 
-    $mpdf->SetWatermarkImage('Pdf_Style/Logo.png', 0.2, 'F');
+    $mpdf->SetWatermarkImage('Pdf_Style/Pro_Logo.png', 0.2, 'F');
     $mpdf->showWatermarkImage = true;
 
     $mpdf->WriteHTML($stylesheet,\Mpdf\HTMLParserMode::HEADER_CSS);
